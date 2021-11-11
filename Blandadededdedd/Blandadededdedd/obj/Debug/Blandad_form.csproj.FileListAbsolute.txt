@@ -1,0 +1,7 @@
+C:\Users\drago\source\repos\Blandadededdedd\Blandadededdedd\obj\Debug\Blandad_form.csproj.AssemblyReference.cache
+C:\Users\drago\source\repos\Blandadededdedd\Blandadededdedd\obj\Debug\Blandad_form.frmMain.resources
+C:\Users\drago\source\repos\Blandadededdedd\Blandadededdedd\obj\Debug\Blandadededdedd.Properties.Resources.resources
+C:\Users\drago\source\repos\Blandadededdedd\Blandadededdedd\obj\Debug\Blandad_form.csproj.GenerateResource.cache
+C:\Users\drago\source\repos\Blandadededdedd\Blandadededdedd\obj\Debug\Blandad_form.csproj.CoreCompileInputs.cache
+C:\Users\drago\source\repos\Blandadededdedd\Blandadededdedd\obj\Debug\Blandadededdedd.exe
+C:\Users\drago\source\repos\Blandadededdedd\Blandadededdedd\obj\Debug\Blandadededdedd.pdb
